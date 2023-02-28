@@ -1,0 +1,1 @@
+# Dizideki-Elemanlar-n-Ortalamas-n-Hesaplayan-Program
